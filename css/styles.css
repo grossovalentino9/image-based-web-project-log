@@ -44,11 +44,18 @@ div input{
     border-color: #ced6f0;
 }
 div button{
-    width: 103px;
+    width: 100%;
     height: 45px;
     padding: 5px;
     border-radius: 5%;
     background-color: #367bf5;
     color: white;
     border-color: #367bf5;
+}
+p{
+    color: gray;
+}
+a{
+    color: black;
+    text-decoration-line: none;
 }
